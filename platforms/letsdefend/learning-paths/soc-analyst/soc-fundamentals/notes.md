@@ -1,0 +1,2 @@
+- SOC is central to security monitoring.
+- Tier 1 triages, Tier 2 investigates, Tier 3 responds deeply.

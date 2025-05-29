@@ -1,0 +1,2 @@
+- Look for payloads in URIs
+- 200 OK for malicious requests is a red flag

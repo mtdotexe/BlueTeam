@@ -1,0 +1,2 @@
+- Helps identify attacker stage
+- Useful for threat hunting

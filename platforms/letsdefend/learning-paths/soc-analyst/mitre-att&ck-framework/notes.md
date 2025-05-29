@@ -1,0 +1,1 @@
+- ATT&CK is essential for alert correlation and detection logic
