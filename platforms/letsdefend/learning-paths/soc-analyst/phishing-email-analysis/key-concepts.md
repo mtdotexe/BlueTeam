@@ -1,4 +1,0 @@
-- Email headers
-- SPF/DKIM
-- IOC extraction
-- URL analysis tools
