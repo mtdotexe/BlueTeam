@@ -1,1 +1,0 @@
-No hands-on lab in this course, but detailed platform walkthroughs provided context.
