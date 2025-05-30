@@ -1,1 +1,0 @@
-Mapped attack scenarios to MITRE techniques. No standalone lab.
