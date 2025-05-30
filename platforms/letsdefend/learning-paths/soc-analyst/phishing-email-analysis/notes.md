@@ -1,2 +1,0 @@
-- Always check sender domain and reply-to
-- Use tools like VirusTotal, Any.run
