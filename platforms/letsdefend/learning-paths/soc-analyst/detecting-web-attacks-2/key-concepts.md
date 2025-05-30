@@ -1,3 +1,0 @@
-- Obfuscation
-- Base64 in URIs
-- Directory traversal
