@@ -1,1 +1,0 @@
-Analyzed a suspicious email, checked headers, extracted links. Identified malicious indicators.
