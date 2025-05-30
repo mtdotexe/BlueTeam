@@ -1,46 +1,97 @@
-# 🧠 SOC Fundamentals
+# 🛡️ SOC Fundamentals – LetsDefend
 
-> *"This course explains how SOC works and which tools we use for investigation. A very good start for beginners."*
-
-> — LetsDefend
+This course offers a foundational understanding of Security Operations Centers (SOCs), their roles, tools, and best practices. It’s an excellent starting point for aspiring SOC analysts.
 
 ---
 
-## 📘 Course Overview
-
-The **SOC Fundamentals** course serves as a crucial stepping stone for individuals aspiring to build a rewarding career as a Security Operations Center (SOC) analyst. Through a systematic exploration of SOC types, roles, and responsibilities, participants gain a comprehensive understanding of the dynamic cybersecurity landscape.
-
-The course not only equips aspiring SOC analysts with essential technical skills such as log management, Endpoint Detection and Response (EDR), and Security Orchestration, Automation, and Response (SOAR) but also emphasizes the significance of fostering a proactive and strategic mindset. By addressing common mistakes made by SOC analysts, the course empowers individuals to navigate challenges, enhance their incident response capabilities, and contribute effectively to organizational cybersecurity efforts.
-
-[🔗 Link to course on LetsDefend](https://app.letsdefend.io/training/lessons/soc-fundamentals)
-
----
-
-## 🎯 Objectives
-
-- Gain a thorough understanding of the SOC and the role of the SOC analyst.
-- Develop practical skills in log management, EDR, and SOAR.
-- Learn to effectively analyze and respond to security incidents.
-- Cultivate a proactive mindset for contributing to cybersecurity efforts.
+## 📚 Table of Contents
+1. [Introduction to SOC](#1-introduction-to-soc)  
+2. [SOC Types and Roles](#2-soc-types-and-roles)  
+3. [SOC Analyst and Their Responsibilities](#3-soc-analyst-and-their-responsibilities)  
+4. [SIEM and Analyst Relationship](#4-siem-and-analyst-relationship)  
+5. [Log Management](#5-log-management)  
+6. [EDR – Endpoint Detection and Response](#6-edr--endpoint-detection-and-response)  
+7. [SOAR (Security Orchestration, Automation, and Response)](#7-soar-security-orchestration-automation-and-response)  
+8. [Threat Intelligence Feed](#8-threat-intelligence-feed)  
+9. [Common Mistakes Made by SOC Analysts](#9-common-mistakes-made-by-soc-analysts)  
 
 ---
 
-## 🧠 Key Concepts
-
-- **Introduction to SOC**: Understanding the purpose and functions of a Security Operations Center.
-- **SOC Types and Roles**: Exploring different SOC models (In-house, Virtual, Co-Managed, Command) and their respective roles.
-- **SOC Analyst Responsibilities**: Delving into the duties and daily tasks of a SOC analyst.
-- **SIEM and Analyst Relationship**: Learning how Security Information and Event Management systems aid analysts.
-- **Log Management**: Managing and analyzing logs from various sources.
-- **EDR (Endpoint Detection and Response)**: Utilizing EDR tools for endpoint security.
-- **SOAR (Security Orchestration, Automation, and Response)**: Automating and orchestrating security operations.
-- **Threat Intelligence Feed**: Integrating threat intelligence into SOC operations.
-- **Common Mistakes by SOC Analysts**: Identifying and avoiding frequent pitfalls in SOC analysis.
+## 🎯 Course Objectives
+- Gain a comprehensive understanding of SOC operations and the role of a SOC analyst.  
+- Develop practical skills in log management, EDR, and SOAR tools.  
+- Enhance capabilities in analyzing and responding to security incidents.  
+- Foster a proactive mindset to contribute effectively to cybersecurity efforts.
 
 ---
 
-## 🏆 Badge Earned
+## 🧠 Key Takeaways by Lesson
 
-Upon successful completion of this course, you earn the **"SOC Member"** badge, signifying their foundational knowledge in SOC operations.
+### 1. Introduction to SOC
+- Understand the purpose and functions of a Security Operations Center.  
+- Recognize the importance of SOCs in organizational cybersecurity.  
+
+### 2. SOC Types and Roles
+- Differentiate between various SOC models: In-house, Virtual, Co-Managed, and Command SOCs.  
+- Comprehend the People, Process, and Technology framework within SOCs.  
+- Identify key SOC positions: Analyst, Incident Responder, Threat Hunter, Security Engineer, and SOC Manager.  
+
+### 3. SOC Analyst and Their Responsibilities
+- Analyze threats and escalate incidents appropriately.  
+- Investigate alerts using tools like SIEM, EDR, and SOAR.  
+- Understand the daily routine and required competencies of a SOC analyst.  
+
+### 4. SIEM and Analyst Relationship
+- Learn the functionalities of Security Information and Event Management (SIEM) systems.  
+- Understand how SOC analysts interact with SIEM alerts and collaborate with other teams.  
+- Recognize the importance of identifying false positives and refining alerting processes.  
+
+### 5. Log Management
+- Centralize and manage logs from various sources for efficient analysis.  
+- Utilize log management tools to investigate communications and detect anomalies.  
+
+### 6. EDR – Endpoint Detection and Response
+- Understand the role of EDR in monitoring and analyzing endpoint activities.  
+- Familiarize with popular EDR solutions like CarbonBlack, SentinelOne, and FireEye HX.  
+- Leverage EDR tools to search for indicators of compromise (IOCs) and gather relevant information.  
+
+### 7. SOAR (Security Orchestration, Automation, and Response)
+- Integrate various security tools for streamlined operations.  
+- Automate incident response processes using playbooks.  
+- Utilize SOAR platforms like Splunk Phantom, IBM Resilient, and Demisto for efficient case management.  
+
+### 8. Threat Intelligence Feed
+- Stay informed about the latest threats through threat intelligence feeds.  
+- Incorporate data from sources like VirusTotal and Talos Intelligence into SOC operations.  
+- Use threat intelligence to proactively defend against emerging cyber threats.  
+
+### 9. Common Mistakes Made by SOC Analysts
+- Avoid common pitfalls such as misclassifying alerts or overlooking critical information.  
+- Continuously refine analysis techniques and stay updated with evolving threats.  
+- Emphasize the importance of communication and collaboration within the SOC team.  
 
 ---
+
+## 🏅 Achievements
+- **Badge Earned:** SOC Member  
+- **Quiz Completion:** SOC Fundamentals Assessment  
+
+---
+
+## 👥 Intended Audience
+- Aspiring SOC analysts and cybersecurity enthusiasts.  
+- Students and professionals seeking to enhance their knowledge in SOC operations.  
+- Individuals aiming to transition into cybersecurity roles.  
+
+---
+
+## 📘 Prerequisites
+- Basic understanding of cybersecurity concepts.  
+- Fundamental knowledge of IT, networking, and system administration.  
+
+---
+
+## 📎 Resources
+- [LetsDefend SOC Fundamentals Course](https://letsdefend.io)  
+- [SOC Fundamentals FAQ – LetsDefend Forum](https://community.letsdefend.io)  
+- [SOC Fundamentals Training Overview – Medium Article](https://medium.com)
