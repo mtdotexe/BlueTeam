@@ -1,2 +1,0 @@
-- Tactics (Initial Access, Execution, Persistence, etc.)
-- Techniques (Phishing, Process Injection)
