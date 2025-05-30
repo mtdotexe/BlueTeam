@@ -1,3 +1,0 @@
-- HTTP request logs
-- URI patterns
-- Web shell detection
