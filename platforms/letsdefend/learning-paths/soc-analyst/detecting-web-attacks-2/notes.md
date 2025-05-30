@@ -1,2 +1,0 @@
-- Base64 in URL is often a sign of evasion
-- Watch for recurring suspicious patterns
