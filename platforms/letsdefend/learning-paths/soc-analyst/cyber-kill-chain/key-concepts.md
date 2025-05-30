@@ -1,7 +1,0 @@
-- Reconnaissance
-- Weaponization
-- Delivery
-- Exploitation
-- Installation
-- C2
-- Actions on Objectives
